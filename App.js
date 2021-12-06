@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, SafeAreaView, StatusBar, Modal, Alert, Pressabl
 
 {/*  
 **WORK DISTRIBUTION**
-
+ 
 Syarizal bin Shamsul (1815499)
   -Array map function
   -Drop course function
